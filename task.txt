@@ -6,3 +6,17 @@ The main objective of the project is to develop a memory puzzle game that has th
 Project Prerequisites
 Basic concepts of Python and TKinter are required to get ahead with the project.
 
+------------------------------------------------------------------------------------
+
+Task 1.
+
+Start creating the base of the game
+
+Hint.
+a. random: random helps in generating random numbers.
+b. Tk(): It provides a library of basic elements of gui widgets.
+c. title(): It helps in setting the title of the screen.
+d. ttk.Notebook(): This widget manages the collection of windows and displays one window at a time.
+e. ttk.Frame(): It is basically a rectangular container for other widgets.
+
+------------------------------------------------------------------------------------------------
