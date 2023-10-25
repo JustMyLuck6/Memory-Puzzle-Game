@@ -1,0 +1,8 @@
+In this game, we will create 3 levels: easy, medium, and hard. At the start of the game, the shapes are hidden. The player clicks on the tiles to uncover the tile and when two similar tiles are uncovered the score increases. To complete the game the user has to uncover all the pairs of shapes. After completion of the game, the number of moves required to complete the game is also displayed on the screen.
+
+Python Memory Puzzle Game Project
+The main objective of the project is to develop a memory puzzle game that has three different levels. Installation of tkinter is a must to start developing the project.
+
+Project Prerequisites
+Basic concepts of Python and TKinter are required to get ahead with the project.
+
